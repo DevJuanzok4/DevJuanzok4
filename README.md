@@ -1,6 +1,7 @@
 
  # Olá, eu Sou o DevJuan 🤙
 
+<hr>
 
 ##### Programação Frontend: Html, CSS, JavaScript e Bootstrap
 
