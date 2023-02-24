@@ -16,7 +16,7 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 
 <hr>
 <div>
-          <img align="right" alt="Compositor" height="200" width="200"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/atlas2.png" />
+          <img align="right" alt="Compositor" height="250" width="250"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/atlas2.png" />
           </div>
 
 
