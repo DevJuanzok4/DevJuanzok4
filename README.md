@@ -4,7 +4,7 @@
  # Olá, eu Sou o DevJuan 🤙
  <center>
 <div>
-          <img align="center" alt="Compositor" height="300" width="350"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg" />
+          <img align="center" alt="Compositor" height="350" width="400"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg" />
           </div>
  </center>
 <hr>
