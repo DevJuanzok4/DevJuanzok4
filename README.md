@@ -16,7 +16,7 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 
 <hr>
 
-# 💻-Meus sistemas operacionais
+## 💻-Meus sistemas operacionais
 
 [![blog](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/download/)  [![system](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
 
@@ -24,7 +24,7 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 
 
 
-# 👤-Redes Sociais
+## 👤-Redes Sociais
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
@@ -35,7 +35,7 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 
 ![juangit](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=dracula)
 
-# 🔌-Habilidades e Linguagens:
+## 🔌-Habilidades e Linguagens:
 
 
 ![1](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
