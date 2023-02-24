@@ -2,6 +2,9 @@
  <center>
  
  # Olá, eu Sou o DevJuan 🤙
+<div>
+          <img align="right" alt="Compositor" height="250" width="280"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/atlas2.png" />
+          </div>
 
 <hr>
 
