@@ -15,6 +15,10 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 ##### Banco de dados : Estudo a base de banco de dados para modelo relacional do SGBDR : MySQL, na linguagem SQL
 
 <hr>
+<div>
+          <img align="right" alt="Compositor" height="200" width="200"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/atlas2.png" />
+          </div>
+
 
 ## 💻-Meus sistemas operacionais
 
