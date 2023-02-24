@@ -1,4 +1,6 @@
 
+ <center>
+ 
  # Olá, eu Sou o DevJuan 🤙
 
 <hr>
@@ -28,11 +30,11 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
 [![Whatsapp](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](@devjuanx:matrix.org)
 
-<hr>
+
 
 
 ![juangit](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=dracula)
-<hr>
+
 ## 🔌-Habilidades e Linguagens:
 
 
@@ -50,3 +52,5 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 Estudando e em busca de novas experiências.
 
 ![Snake animation](https://github.com/DevJuanzok4/DevJuanzok4/blob/output/github-contribution-grid-snake.svg)
+ 
+ </center>
