@@ -2,7 +2,7 @@
  # Olá, eu Sou o DevJuan 🤙
 
 
-####Programação Frontend: Html, CSS, JavaScript e Bootstrap
+### Programação Frontend: Html, CSS, JavaScript e Bootstrap
 Programação Backend: C# e me aventurei um pouco em Java para uma competição de Robocode aqui na Eteckkk
 AI : Fiz um curso de reconhecimento da Ferramenta de inteligencia artificial Azure da Microsoft e em breve receberei um certificado da tal
 Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e uns testes de ataques em um site projetado para isso por meio de SQL Injection
