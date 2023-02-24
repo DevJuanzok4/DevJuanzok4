@@ -48,6 +48,7 @@ Inteligencia da informação: Fiz um curso sobre pentest e vulnerabilidades e un
 ![k](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![k](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![k](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![k](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+ <br>
 <hr>
 <br>
 Estudando e em busca de novas experiências.
