@@ -75,6 +75,7 @@
 ## Estudando e em busca de novas experiências.
 
 
- ![snake gif](https://github.com/DevJuanzok4/DevJuanzok4/blob/output/github-contribution-grid-snake.svg)
+ 
+ ![Snake animation](https://github.com/DevJuanzok4/DevJuanzok4/blob/output/github-contribution-grid-snake.svg)
  
  </center>
