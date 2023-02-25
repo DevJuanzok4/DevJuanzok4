@@ -14,7 +14,7 @@
   
  </center>
 <hr>
- <br>
+ <br><br><br><br><br><br><br>
 <div box-sizing: border-box>
  
 ##### 🔵Programação Frontend: Html, CSS, JavaScript e Bootstrap
