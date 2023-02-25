@@ -23,7 +23,7 @@
 </div>
 <hr>
 <div>
-          <img align="right" alt="Compositor" height="250" width="280"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/atlas2.png" />
+          <img align="right" alt="Compositor" height="250" width="280"  src="https://cdn.discordapp.com/attachments/983160565608362004/1078847325448982645/Atlantis_Logo.png" />
           </div>
 
 
