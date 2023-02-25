@@ -1,5 +1,5 @@
 
- <center>
+
  
  # Olá, eu Sou o DevJuan 🤙
  <center>
@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&_progress=true)
      </div>
   
- </center>
+
 
  <br> <br> <br> <br> <br>
  <hr>
