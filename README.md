@@ -6,6 +6,10 @@
 <div>
           <img align="center" alt="Compositor" height="350" width="400"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg" />
           </div>
+   <div align="center" >
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&h_progress=true)](https://github.com/DevJuanzok4/github-readme-stats)
+     </div>
+  
  </center>
 <hr>
 <div box-sizing: border-box>
@@ -63,8 +67,7 @@
 <hr>
 <br>
 Estudando e em busca de novas experiências.
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&h_progress=true)](https://github.com/DevJuanzok4/github-readme-stats)
+
 
  ![snake gif](https://github.com/DevJuanzok4/DevJuanzok4/blob/output/github-contribution-grid-snake.svg)
  
