@@ -4,8 +4,9 @@
  # Olá, eu Sou o DevJuan 🤙
  <center>
 <div>
-          <img align="center" alt="Compositor" height="350" width="400"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg" />
+          <img align="center" alt="Compositor" height="350" width="400"  src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg"> 
           </div>
+  
    <div align="right" >
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&_progress=true)](https://github.com/DevJuanzok4/github-readme-stats)
