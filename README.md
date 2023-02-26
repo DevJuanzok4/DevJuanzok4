@@ -35,7 +35,7 @@
           </div>
 
 
-## 💻-Meus sistemas operacionais
+## 💻 Meus sistemas operacionais
 
 [![blog](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/download/)  [![system](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
 
@@ -43,11 +43,12 @@
 
 
 
-## 👤-Redes Sociais
+## 👤 Redes Sociais
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
 [![Whatsapp](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](@devjuanx:matrix.org)
+[![kk](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_coutinho/)
 
 <br>
 
