@@ -79,7 +79,8 @@
 <br>
  <div align="right" >
     
-       <img src="https://github.com/DevJuanzok4/DevJuanzok4/blob/main/hand-coding-animate.svg" />
+        <img align="left" alt="Compositor" height="350" width="400"  src="https://github.com/DevJuanzok4/DevJuanzok4/blob/main/hand-coding-animate.svg"> 
+          </div>
      </div>
   
 ## Estudando e em busca de novas experiências.
