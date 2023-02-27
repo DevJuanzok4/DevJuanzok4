@@ -12,10 +12,10 @@
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&layout=compact&langs_count=6&theme=tokyonight"/>
      </div>
-   <hr>
+  
 
 
- <br> <br> <br> <br> <br> <br> <br> <br> 
+ <br> <br> <br> <br> <br> <br> <br> <br>  <hr>
 
 <div box-sizing: border-box>
  
