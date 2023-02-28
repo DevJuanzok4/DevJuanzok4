@@ -53,7 +53,7 @@
 
 <br>
 
-<center> ![juangit](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=nightowl) </center>
+![juangit](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=nightowl)
   <br> <br>
 
 ## 🔌-Habilidades e Linguagens:
