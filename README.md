@@ -56,7 +56,7 @@
 ![juangit](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=nightowl)
   <br> <br>
 
-## 🔌-Habilidades e Linguagens:
+## 🔌Habilidades e Linguagens:
 
 
 ![1](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
