@@ -71,9 +71,6 @@
 
 <br>
 
-  <div>
-          <img align="right" alt="" height="350" width="400"  src="https://raw.githubusercontent.com/DevJuanzok4/Login3.0/1f8ec276f4843490743c7935578c498360a95d7b/kkk.svg"> 
-          </div>
 
 
 ## Aperte Abaixo
