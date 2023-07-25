@@ -15,7 +15,7 @@
   
 
 
- <br> <br> <br> <br> <br> <br> <br> <br>  <br>  <hr>
+ <br> <br> <br> <br> <br> <br> <br> <br>  <br>  
 
 <div box-sizing: border-box>
  
