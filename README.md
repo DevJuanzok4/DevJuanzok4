@@ -3,7 +3,9 @@
   <div style="margin-right: 10px;">
     <img alt="Compositor" height="350" width="380" src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg"> 
   </div>
+  
 ---
+
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&layout=compact&langs_count=6&theme=tokyonight" />
   </div>
