@@ -12,19 +12,6 @@
 
 ---
 
-## 💻 Meus sistemas operacionais
-
-[![blog](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/download/)
-[![system](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
-
-<br>
-
-## 👤 Redes Sociais
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
-
-<br>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=nightowl)
 
 ---
@@ -48,6 +35,20 @@
 ### Banco de dados
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+## 💻 Meus sistemas operacionais
+
+[![blog](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/download/)
+[![system](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
+
+<br>
+
+## 👤 Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
+
+<br>
 
 <br>
 
