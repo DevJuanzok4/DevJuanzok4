@@ -10,14 +10,14 @@
   ---
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&layout=compact&langs_count=6&theme=shadow_red" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&layout=compact&langs_count=6&theme=great-gatsby" />
   </div>
 </div>
 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=shadow_red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=great-gatsby)
 
 ---
 
