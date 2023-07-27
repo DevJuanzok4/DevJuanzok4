@@ -19,6 +19,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=great-gatsby)
 
+
+
+## 👤 Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
+
+
+
 ---
 
 ## 🔌 Habilidades e Linguagens
@@ -45,11 +53,6 @@
 <br>
 
 ---
-
-## 👤 Redes Sociais
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
-
 <br>
 
 ---
@@ -63,7 +66,5 @@
 ---
 
 ## Estudando e em busca de novas experiências.
-
-![Snake animation](https://github.com/DevJuanzok4/DevJuanzok4/blob/output/github-contribution-grid-snake.svg)
 
 </div>
