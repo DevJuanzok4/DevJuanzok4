@@ -1,8 +1,8 @@
 # Olá! Sou o DevJuan ✌
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="margin-right: 10px;">
-    <img alt="Compositor" height="350" width="380" src="https://raw.githubusercontent.com/DevJuanzok4/Atlas/main/programador.svg"> 
-  </div>
+     
+  
   
 ---
 
