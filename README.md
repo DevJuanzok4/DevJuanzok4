@@ -50,12 +50,7 @@
 [![blog](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/download/)
 [![system](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/introduction/download-official-kali-linux-images/)
 
-<br>
 
----
-<br>
-
----
 
 <br>
 
