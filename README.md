@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=great-gatsby)
 
-
+---
 
 ## 👤 Redes Sociais
 
@@ -30,7 +30,7 @@
 ---
 
 ## 🔌 Habilidades e Linguagens
----
+
 <div align="center">
 
 | Front-End                                      | Back-End                                          | Framework                                | Banco de dados                                  |
