@@ -1,10 +1,13 @@
+<div align="center">
+
 # Olá! Sou o DevJuan ✌
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="margin-right: 10px;">
-     
   
   
----
+  
+  ---
 
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&layout=compact&langs_count=6&theme=shadow_red" />
@@ -62,3 +65,5 @@
 ## Estudando e em busca de novas experiências.
 
 ![Snake animation](https://github.com/DevJuanzok4/DevJuanzok4/blob/output/github-contribution-grid-snake.svg)
+
+</div>
