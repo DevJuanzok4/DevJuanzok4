@@ -2,10 +2,11 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
-<center>
-<img width="100px" height="100px" src="Cloud sync (1).gif" alt="Texto alternativo">
-</center>
 
+<div><center>
+<img width="400px" height="400px" src="Cloud sync (1).gif" alt="Texto alternativo">
+</center>
+</div>div>
 <p align="center">
     <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&bg_color=0D1117"/>
