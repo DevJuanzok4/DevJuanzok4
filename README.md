@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou programador Fullstack, gosto de criar implementações, testes de códigos, gosto de jogar xadrez e estudar sobre cybersegurança.
+Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desafios da criação de implementações robustas. Cada linha de código é uma oportunidade de aprimorar minhas habilidades e oferecer soluções inovadoras. Adoro colocar à prova meus conhecimentos em testes de códigos, garantindo que meus projetos alcancem altos padrões de qualidade e confiabilidade.
 
 ## Habilidades
 
