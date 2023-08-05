@@ -15,9 +15,10 @@ Sou programador Fullstack, gosto de criar implementações, testes de códigos, 
 
 ## Projetos Destacados
 
-### [Meu Blog Pessoal](https://seublog.com)
+### [Meu Blog Pessoal](https://github.com/DevJuanzok4/Site-Projeto-Webino888.Bet)
 
-Meu blog pessoal onde compartilho dicas, tutoriais e reflexões sobre tecnologia e desenvolvimento.
+Site onde uso para aperfeiçoar minhas habilidades no frontend e para aprender ruby.
+E acima de tudo construir um ambiente agradável para meus Usuários.
 
 ### [Projeto 2]
 
@@ -33,7 +34,7 @@ Uma breve descrição do Projeto 2 e qual o seu propósito.
 ## Contato
 
 - Site: https://seusite.com
-- E-mail: seu_email@example.com
+- E-mail: devcoutinhored@gmail.com
 - LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu_perfil)
 - Twitter: [@seu_twitter](https://twitter.com/seu_twitter)
 
