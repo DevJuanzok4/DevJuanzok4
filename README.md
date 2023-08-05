@@ -13,3 +13,6 @@
 
 <span style="color: #800080;">N</span>
 </div>
+<center>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&theme=synthwave&show_icons=true)
+</center>
