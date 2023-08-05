@@ -2,7 +2,7 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/seu_usuario?label=Follow&style=social)](https://github.com/DevJuanzok4)
+[![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
 ## Sobre Mim
 
