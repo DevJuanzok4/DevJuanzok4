@@ -4,7 +4,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
-   <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="Juan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
+
+
+<p align="center">
+    <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## Sobre Mim
 
