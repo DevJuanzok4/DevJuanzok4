@@ -15,7 +15,7 @@ Sou programador Fullstack, gosto de criar implementações, testes de códigos, 
 
 ## Projetos Destacados
 
-### [Meu Blog Pessoal](https://github.com/DevJuanzok4/Site-Projeto-Webino888.Bet)
+### [Webino888](https://github.com/DevJuanzok4/Site-Projeto-Webino888.Bet)
 
 Site onde uso para aperfeiçoar minhas habilidades no frontend e para aprender ruby.
 E acima de tudo construir um ambiente agradável para meus Usuários.
