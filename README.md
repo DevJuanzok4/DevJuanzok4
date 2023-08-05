@@ -39,4 +39,4 @@ Uma breve descrição do Projeto 2 e qual o seu propósito.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=synthwave)
