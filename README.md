@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
-   <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="Juan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="Juan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
 
 ## Sobre Mim
 
@@ -36,5 +36,3 @@ Jogo em Javascript Multiplayer com Node.Js.
 
 
 ## Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=synthwave)
