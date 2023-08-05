@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
