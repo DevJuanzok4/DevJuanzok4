@@ -24,19 +24,13 @@ E acima de tudo construir um ambiente agradável para meus Usuários.
 
 Uma breve descrição do Projeto 2 e qual o seu propósito.
 
-## Contribuições para a Comunidade
-
-- Contribuição 1: [Nome do Projeto](https://github.com/projeto_contribuicao)
-  - Descrição da contribuição 1.
-- Contribuição 2: [Outro Projeto](https://github.com/outro_projeto)
-  - Descrição da contribuição 2.
 
 ## Contato
 
-- Site: https://seusite.com
+- Discord: https://seusite.com
 - E-mail: devcoutinhored@gmail.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu_perfil)
-- Twitter: [@seu_twitter](https://twitter.com/seu_twitter)
+- LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
+
 
 ## Estatísticas do GitHub
 
