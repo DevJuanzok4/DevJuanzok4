@@ -1,7 +1,7 @@
 # Juan C.
 
 <div>
-<img width="300px" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" alt="Minha Imagem" style="float: left; margin-right: 10px;">
+<img width="400px" height="100%" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105" alt="Minha Imagem" style="float: left; margin-right: 10px;">
   
 <span style="color: #800080;">L </span>
 
