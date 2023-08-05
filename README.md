@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
-<img src="Cloud sync.gif" alt="Texto alternativo">
+<img src="Cloud sync (1).gif" alt="Texto alternativo">
 
 
 <p align="center">
