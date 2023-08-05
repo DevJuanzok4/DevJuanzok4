@@ -2,9 +2,9 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
-
-<img src="Cloud sync (1).gif" alt="Texto alternativo">
-
+<center>
+<img width="100px" height="100px" src="Cloud sync (1).gif" alt="Texto alternativo">
+</center>
 
 <p align="center">
     <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
