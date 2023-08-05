@@ -1,7 +1,7 @@
 # Juan C.
 
 <div>
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Minha Imagem" style="float: left; margin-right: 10px;">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8bd43448904239.58a531b0cc801.gif" alt="Minha Imagem" style="float: left; margin-right: 10px;">
   
 <span style="color: #800080;">L </span>
 
