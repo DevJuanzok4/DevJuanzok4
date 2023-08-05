@@ -4,6 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
+   <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="Juan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 ## Sobre Mim
 
 Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desafios da criação de implementações robustas. Cada linha de código é uma oportunidade de aprimorar minhas habilidades e oferecer soluções inovadoras. Adoro colocar à prova meus conhecimentos em testes de códigos, garantindo que meus projetos alcancem altos padrões de qualidade e confiabilidade.
