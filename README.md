@@ -3,6 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAzNCAzNCIgZmlsbD0ibm9uZSIgZGF0YS1uYW1lPSJMYXllciAxIiAvPjwvc3ZnPgo=" alt="Texto alternativo">
 
 
 <p align="center">
