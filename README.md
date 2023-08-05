@@ -1,12 +1,12 @@
 # Juan C.
 
-## L
+## <span style="color: #800080;">L </span>
 
-### E
+### <span style="color: #800080;">E</span>
 
-#### A
+#### <span style="color: #800080;">A</span>
 
-#### R
+#### <span style="color: #800080;">R</span>
 
-##### N
+##### <span style="color: #800080;">N</span>
 
