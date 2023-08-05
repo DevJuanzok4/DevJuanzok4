@@ -20,9 +20,9 @@ Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desa
 Site onde uso para aperfeiçoar minhas habilidades no frontend e para aprender ruby.
 E acima de tudo construir um ambiente agradável para meus Usuários.
 
-### [Projeto 2]
+### [NDshooter] (https://github.com/DevJuanzok4/NDshooter-Multiplayer-Game)
 
-Uma breve descrição do Projeto 2 e qual o seu propósito.
+Jogo em Javascript Multiplayer com Node.Js.
 
 
 ## Contato
