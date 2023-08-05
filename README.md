@@ -8,11 +8,6 @@
 </div>
 
 
-<p align="center">
-    <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p>
 
 ## Sobre Mim
 
@@ -23,6 +18,13 @@ Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desa
 - Desenvolvimento Web com HTML, CSS e JavaScript
 - Desenvolvimento Backend com Ruby e PHP
 - Bancos de Dados SQL e NoSQL
+
+  
+<p align="center">
+    <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
 
 ## Projetos Destacados
 
