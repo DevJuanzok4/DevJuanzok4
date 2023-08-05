@@ -1,7 +1,7 @@
 # 👋 Olá @usuario ! Eu sou o Juan
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/seu_twitter?style=social)](https://twitter.com/seu_twitter)
+
 [![GitHub followers](https://img.shields.io/github/followers/seu_usuario?label=Follow&style=social)](https://github.com/seu_usuario)
 
 ## Sobre Mim
