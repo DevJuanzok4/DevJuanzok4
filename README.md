@@ -27,7 +27,7 @@ Uma breve descrição do Projeto 2 e qual o seu propósito.
 
 ## Contato
 
-- Discord: https://seusite.com
+- Discord: https://discord.gg/bhfyHvA4ms
 - E-mail: devcoutinhored@gmail.com
 - LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
 
