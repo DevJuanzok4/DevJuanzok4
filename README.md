@@ -1,4 +1,4 @@
-# 👋 Olá @usuario ! Eu sou o Juan
+# 👋 Olá! Eu sou o Juan
 
 
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
