@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
 <div style="text-align: center;">
-  <img width="400px" height="400px" src="Cloud sync (1).gif" alt="Texto alternativo">
+  <img width="400px" height="400px" src="secure-data-animate.svg" alt="Texto alternativo">
 </div>
 
 
