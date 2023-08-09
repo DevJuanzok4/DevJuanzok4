@@ -22,7 +22,7 @@ Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desa
   
 <p align="center">
     <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=synthwave&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=shadow_red&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
@@ -50,8 +50,8 @@ Jogo em Javascript Multiplayer com Node.Js.
 
 
   <br/>
-    <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="j's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="j's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&langs_count=8&count_private=true&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="j's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=shadow_red&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="j's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuanzok4&langs_count=8&count_private=true&layout=compact&theme=shadow_red&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 
