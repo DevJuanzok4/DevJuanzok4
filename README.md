@@ -22,7 +22,7 @@ Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desa
   
 <p align="center">
     <a href="https://github.com/DevJuanzok4/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Juanzok4" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=shadow_red"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Juanzok4" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJuanzok4&theme=transparent"/>
     </a>
 </p>
 
