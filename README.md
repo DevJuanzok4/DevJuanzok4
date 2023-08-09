@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+😉)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
+
 
 <div style="text-align: center;">
   <img  src="picture.png" alt="Texto alternativo">
@@ -49,6 +50,7 @@ Jogo em Javascript Multiplayer com Node.Js.
 ## Estatísticas do GitHub
 
 
+[![GitHub followers](https://img.shields.io/github/followers/DevJuanzok4?label=Follow&style=social)](https://github.com/DevJuanzok4)
 
   <br/>
     <a href="https://github.com/DevJuanzok4/github-readme-stats"><img alt="j's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&count_private=true&theme=neon" /></a>
@@ -58,8 +60,6 @@ Jogo em Javascript Multiplayer com Node.Js.
   <br/>
  
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+😉)](https://git.io/typing-svg)
 
 <br/>
 
