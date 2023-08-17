@@ -13,13 +13,13 @@
 
 ## Sobre Mim
 
-Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desafios da criação de implementações robustas. Cada linha de código é uma oportunidade de aprimorar minhas habilidades e oferecer soluções inovadoras. Adoro colocar à prova meus conhecimentos em testes de códigos, garantindo que meus projetos alcancem altos padrões de qualidade e confiabilidade
+#### Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desafios da criação de implementações robustas. Cada linha de código é uma oportunidade de aprimorar minhas habilidades e oferecer soluções inovadoras. Adoro colocar à prova meus conhecimentos em testes de códigos, garantindo que meus projetos alcancem altos padrões de qualidade e confiabilidade
 
 ## Habilidades
 
-- Desenvolvimento Web com HTML, CSS e JavaScript
-- Desenvolvimento Backend com Ruby e PHP
-- Bancos de Dados SQL e NoSQL
+#### - Desenvolvimento Web com HTML, CSS e JavaScript
+#### - Desenvolvimento Backend com Ruby e PHP
+#### - Bancos de Dados SQL e NoSQL
 
   
 <p align="center">
@@ -32,19 +32,18 @@ Como programador Fullstack, tenho o prazer de mergulhar nas complexidades e desa
 
 ### [Webino888](https://github.com/DevJuanzok4/Site-Projeto-Webino888.Bet)
 
-Site onde uso para aperfeiçoar minhas habilidades no frontend e para aprender ruby.
-E acima de tudo construir um ambiente agradável para meus Usuários.
+#### Site onde uso para aperfeiçoar minhas habilidades no frontend e para aprender ruby.E acima de tudo construir um ambiente agradável para meus Usuários.
 
 ### [NDshooter](https://github.com/DevJuanzok4/NDshooter-Multiplayer-Game)
 
-Jogo em Javascript Multiplayer com Node.Js.
+#### Jogo em Javascript Multiplayer com Node.Js.
 
 
 ## Contato
 
-- Discord: https://discord.gg/bhfyHvA4ms
-- E-mail: devcoutinhored@gmail.com
-- LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
+#### - Discord: https://discord.gg/bhfyHvA4ms
+#### - E-mail: devcoutinhored@gmail.com
+#### - LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
 
 
 ## Estatísticas do GitHub
