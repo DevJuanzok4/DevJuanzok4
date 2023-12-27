@@ -1,7 +1,7 @@
 ![Juan Coutinho](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+😉)
 
 <div align="center">
-  <img src="picture.png" alt="Texto alternativo">
+  <img src="picture.png" alt="Texto alternativo" height="100px" widht="100px">
 </div>
 
 ## Sobre Mim
